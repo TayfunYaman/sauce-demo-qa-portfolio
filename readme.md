@@ -1,7 +1,7 @@
 # 🧪 Sauce Demo - QA Testing Portfolio
 
 > Manual testing portfolio demonstrating functional testing, bug detection, 
-> and documentation skills for Junior QA role.
+> and documentation skills for Junior QA role.55
 
 ## 📋 Project Overview
 
